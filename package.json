@@ -1,0 +1,19 @@
+{
+  "name": "psp-helper",
+  "version": "1.0.0",
+  "description": "A application for search supernova on PSP",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+	"supernova"
+  ],
+  "author": "Sparrow",
+  "license": "GPL-2.0",
+  "devDependencies": {
+    "electron": "^6.0.10"
+  }
+}
