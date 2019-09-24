@@ -9,7 +9,7 @@
   "repository": "https://github.com/electron/electron-quick-start",
   "keywords": [
     "Electron",
-	"supernova"
+	  "supernova"
   ],
   "author": "Sparrow",
   "license": "GPL-2.0",
